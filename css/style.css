@@ -1,0 +1,33 @@
+*{
+    font-family: 'Righteous', cursive;
+}
+header{
+
+    background-color: rgba(202, 240, 251, 255);
+    height: 100px;
+
+}
+
+ .logo {
+    width: 12%;
+}
+h1{
+
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    color: white;
+    font-size: 40px;
+}
+
+.form{
+    box-sizing: border-box;
+    margin-left: 50px;
+    background-color: rgb(112, 95, 92);
+    width: 30%;
+}
+input,select{
+    width: 60%;
+    margin-left: 50px;
+    margin: 10px;
+}
